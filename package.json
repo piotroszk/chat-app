@@ -1,0 +1,22 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "chat-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piotroszk/chat-app.git"
+  },
+  "author": "piotroszk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piotroszk/chat-app/issues"
+  },
+  "homepage": "https://github.com/piotroszk/chat-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
